@@ -1,6 +1,9 @@
 # DOCKER-PHP-SERVER
 
-## A simple Docker image to spawn a container with php runtimme and builtin webserver
+## A simple Docker image to spawn a container with php run time and builtin webserver
+
+## Development
+All source code shall be contained in the `src` folder
 
 ## Usage
 ```
