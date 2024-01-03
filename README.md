@@ -8,5 +8,5 @@ All source code shall be contained in the `src` folder
 ## Usage
 ```
 docker build -t <container-tag> .
-docker run -p 80:80 <container-tag>
+docker run --rm -p 80:80 <container-tag>
 ```
